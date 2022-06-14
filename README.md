@@ -1,1 +1,1 @@
-# news-api-project
+## News API Project (Competitive Intelligence)
